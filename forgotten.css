@@ -1,0 +1,52 @@
+
+ 
+  
+  body {
+    background-color:lightgrey;
+  }
+  
+
+
+.card-heade{
+
+    font-size: large;
+    font-weight: 100px;
+    background-color: white;
+}
+  
+ .text-start{
+     margin-top: 30%;
+     box-shadow: 4px 4px 20px #888888;
+
+ }
+/*  
+.btn-secondary{
+    margin-left: 5%;
+}
+.btn-primary{
+  margin-left: 5%;
+} */
+ 
+.nav{
+  background-color: white;
+  width: 200%;
+ 
+}
+  /* .col{
+    padding: 2%;
+    font-size: 180%;
+    color: blue;
+    margin-left: 15%;
+  }
+   */
+ h3{
+  padding: 2%;
+  font-size: 180%;
+  color: blue;
+  margin-left: 2%;
+ }
+ 
+  .forgot{
+    margin-left: 1%;
+    margin-top: 7px;
+  }

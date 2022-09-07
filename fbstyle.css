@@ -1,0 +1,130 @@
+h1 {
+    font-weight: bolder;
+    color: blue;
+  }
+  
+  h2 {
+    font-weight: bold;
+  }
+  
+  body {
+    background-color:gainsboro;
+    margin-top: 50px;
+  }
+  
+  .login-box {
+    
+    background-color: white;
+    margin-top: 4%;
+    padding: 15px;
+    /* width: 35%; */
+    border-radius: 8px;
+    box-shadow: 3px 3px 20px #888888;
+    /* width: 114%; */
+ margin-left: 55px; 
+margin-right: 55px; 
+
+
+}
+  
+  .fb-heading {
+    margin-bottom: 50%;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  .form-control {
+    padding: 10px;
+    border-radius: 5px;
+    width: 100%;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border-color: lightgray;
+    font-size: large;
+    border-width: 1px;
+  }
+  
+  /* .container {
+    margin-left: 5%;
+    margin-right: 5%;
+  } */
+  
+  .login-button {
+    width: 60%;
+    padding: 15px;
+    border-radius: 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border-color: lightgray;
+    font-size: x-large;
+    font-weight: bolder;
+  }
+  
+  .forgot-text {
+    color: blue;
+    text-align: center;
+    margin-top: 20px;
+    font-weight: bolder;
+  }
+  
+  .create-account-button {
+    width: 60%;
+    padding: 15px;
+    border-radius: 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: large;
+    font-weight: bolder;
+  }
+  
+  .create-page {
+    text-align: center;
+    padding: 15px;
+    border-radius: 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+  }
+  
+  hr {
+    border-color: lightgray;
+  }
+  
+  .img-fluid{
+    /* margin-left: 470px;
+    margin-right: 380px; */
+width: 40%;
+height: 40%;
+margin-top: 8%;
+  }
+  
+  .header{
+  text-align: center;
+  
+  }
+  
+  h3{
+    font-size: 200%;
+    font-weight: bold;
+  }
+  p{
+    font-size: 130%;
+  }
+  
+  .col-sm-3{
+    border: 2px solid;
+    border-radius: 5px;
+    padding: 5px;
+    border-radius: 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border-color: lightgray;
+    border-width: 1px;
+    margin-left: 12px;
+
+  }
+
+  .by_clicking{
+    font-size: 12px;
+    margin-top: 5px;
+    margin-bottom: 19px;
+  }
+  
